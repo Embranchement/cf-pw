@@ -90,7 +90,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
         })}
         <div className="flex flex-row justify-between mt-4 text-sm">
           <div>
-            Powered by{' '}
+            Propulsé par{' '}
             <a href="https://workers.cloudflare.com/" target="_blank">
               Cloudflare Workers{' '}
             </a>
@@ -101,10 +101,10 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
           </div>
           <div>
             <a
-              href="https://github.com/eidam/cf-workers-status-page"
+              href="https://picxly.pw/"
               target="_blank"
             >
-              Get Your Status Page
+              Picxly
             </a>
           </div>
         </div>
