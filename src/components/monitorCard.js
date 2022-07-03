@@ -51,7 +51,7 @@ export default function MonitorCard({ key, monitor, data }) {
       <MonitorHistogram monitorId={monitor.id} kvMonitor={data} />
 
       <div className="flex flex-row justify-between items-center text-gray-400 text-sm">
-        <div>{config.settings.daysInHistogram} il y a quelques jours</div>
+        <div>il y a 90 jours</div>
         <div>Maintenant</div>
       </div>
     </div>
