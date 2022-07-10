@@ -99,14 +99,6 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
               Flareact{' '}
             </a>
           </div>
-          <div>
-            <a
-              href="https://picxly.pw/"
-              target="_blank"
-            >
-              Picxly
-            </a>
-          </div>
         </div>
       </div>
     </div>
